@@ -14,7 +14,7 @@ demand, along with an AI-powered chatbot for quick assistance. Additional module
 such as email/SMS notifications, data analytics dashboard, and PDF report generation
 make it a complete and professional healthcare management solution.
 
-
+Picture1.png
 
 
 
