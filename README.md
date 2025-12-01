@@ -16,7 +16,7 @@ make it a complete and professional healthcare management solution.
 
 <img width="468" height="253" alt="Picture1" src="https://github.com/user-attachments/assets/4e979c80-5075-4f31-bc0c-e0db74ae6b7d" />
 <img width="468" height="250" alt="Picture2" src="https://github.com/user-attachments/assets/d4c27968-597c-4a9b-9e92-46810bb9030e" />
-<img width="468" height="250" alt="Picture2" src="https://github.com/user-attachments/assets/578817b9-4b90-406c-bde1-24f4e9ab0230" />
+<img width="468" height="238" alt="Picture3" src="https://github.com/user-attachments/assets/8fc4840d-1019-49fd-8200-c7cc25658f8c" />
 <img width="468" height="239" alt="Picture4" src="https://github.com/user-attachments/assets/2a950b0b-1022-460c-bb6b-8538b3fdf9e7" />
 <img width="468" height="240" alt="Picture5" src="https://github.com/user-attachments/assets/bb8ffc21-ae4e-4864-8ca2-478f87edd223" />
 <img width="468" height="235" alt="Picture6" src="https://github.com/user-attachments/assets/697746de-25de-4bbb-94d5-50edd87ea9af" />
